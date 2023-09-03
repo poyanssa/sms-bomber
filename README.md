@@ -1,7 +1,6 @@
 # sms-bomber-poyan
 # sms bomber
 <h3>❌ تمام مسعولیت ها بر عهده خود شماست ❌</h3>
-Skript Filtering : https://github.com/poyans/poyan-teror
 <li>قوی ترین اس ام اس بمبر</li>
 <li>هر بار ۲۰۰ که اس ام اس بمبر بزنید ۲۰۰ بار براش می‌ره!  </li>
 <li>تماس با خدمات ۳</li>
