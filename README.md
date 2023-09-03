@@ -7,7 +7,8 @@
 <li>قابلیت انتخاب اس ام اس بمبر! </li>
 <h4>این اسکریپ آموزشی هست استفاده نادرستی بر عهده خود شماست <h4>
 -----------------------------------------
-<li>Running Termux, Linux </li>
+<li> Running Termux, Linux :  </li>
+  
 apt update && apt upgrate 
 
 pkg install git
