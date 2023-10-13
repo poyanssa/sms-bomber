@@ -31,4 +31,4 @@ cd sms-bomber
 
 python BomberPlus.py
 
-<li> User Poyan Telegram : @godalah </li>
+<li> User Poyan Telegram : @godalaah </li>
