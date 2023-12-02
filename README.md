@@ -31,4 +31,15 @@ cd sms-bomber
 
 python BomberPlus.py
 
+ درصورت قدیمی بودن ترمینال ابتدا با کد زیر آپدیتش کنین :
+apt update && apt upgrade 
+و
+pip install urllib3
+
+درصورت اجرا با Pydroid3 از بخش pip و برداشتن تیک و نصب کد زیر کفاف میکنه و در ترموکس هم دستور زیر را وارد کنید :
+
+pip install urllib3
+
+ بدون مشکل میتونین اجرا کنین
+
 <li> User Poyan Telegram : @godalaah </li>
