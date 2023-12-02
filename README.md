@@ -32,6 +32,8 @@ cd sms-bomber
 python BomberPlus.py
 
  درصورت قدیمی بودن ترمینال ابتدا با کد زیر آپدیتش کنین :
+
+ 
 apt update && apt upgrade 
 و
 pip install urllib3
