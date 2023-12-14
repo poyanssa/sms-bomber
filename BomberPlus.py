@@ -900,7 +900,7 @@ if __name__ == '__main__':
 {g}⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆⇆
 {y}Info:
     {g}[✓] {y}Coder: {a}@poyan hackers
-    {g}[✓] {y}Telegramuser: {a}@gadalah
+    {g}[✓] {y}Telegramuser: {a}@godalaah
     
 {y}system:
     {g}[✓]{y}Platform: {a}{System}
