@@ -44,4 +44,4 @@ pip install urllib3
 
  بدون مشکل میتونین اجرا کنین
 
-<li> User Poyan Telegram : @godalaah </li>
+<li> Chanel Telegram : https://t.me/Edalt_iran , https://t.me/iranAnonymous_Ko</li>
